@@ -1,0 +1,15 @@
+{
+    "nombre": "Komasan",
+    "imagen": "../images/Yokai/Yokai/Komasan.webp",
+    "tribu": "../images/Yokai/Tribu/Guapa.webp",
+    "atributo": "../images/Yokai/Atributo/Fuego.webp",
+    "rango": "../images/Yokai/Rango/D.webp",
+    "biografia": "Komasan es un Yo-kai juguetón y travieso al que le encanta jugar bromas a los humanos. A menudo se le ve con su amigo Komajiro.",
+    "comidaFavorita1": "../images/Yokai/Comida1/Comida_Komasan1.png",
+    "comidaFavorita2": "../images/Yokai/Comida2/Comida_Komasan2.png",
+    "comidaFavorita3": "../images/Yokai/Comida3/Comida_Komasan3.png",
+    "evolucion": "../images/Yokai/Evo/Komasan_evo1.png",
+    "fusion": ["../images/Yokai/Fusi/komasan_komajirou_fusion.png",
+    "../images/Yokai/komasan_t_fusion.png"]
+  }
+  
